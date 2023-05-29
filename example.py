@@ -1,1 +1,2 @@
-print("soy un mensaje")
+print("KE FAYYY")
+print("KE paa")
